@@ -33,7 +33,7 @@ ADB2C provides following identity options
 The Migration process involves the following steps:
 
 1.  Customer will setup the ADB2C on their subscription based on identity options selected.
-2.  Customer will inform the Community Trainingteam via [**helpdesk**](https://aka.ms/cthelpdesk) once ADB2C set up is complete.
+2.  Customer will inform the Community Training team via [**helpdesk**](https://aka.ms/cthelpdesk) once ADB2C set up is complete.
 3.  Community Training Team will implement the necessary steps to enable migration to new identity and retaining their progress.
 
 The Migration can happen in either of the two ways:
@@ -102,7 +102,7 @@ This is for scenarios where you would like the learners to migrate their identit
 
 1.  The learner has reached out to admin informing that the migration has failed.  
 
-    A.  Please raise a ticket with the Community TrainingTeam on [**Community Training Helpdesk**](https://aka.ms/cthelpdek) with following details:  
+    A.  Please raise a ticket with the Community Training Team on [**Community Training Helpdesk**](https://aka.ms/cthelpdek) with following details:  
       1.  Website name  
       2.  Learner identity (for eg: email/username)  
       3.  Learner Mobile Number on the platform  
